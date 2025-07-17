@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there! 👋 I'm a Web Development Student
 
+🚀 Aspiring Frontend Developer with a passion for building beautiful and functional websites.
+
+---
+
+### 💻 Tech Stack
+- React  
+- JavaScript  
+- CSS & Tailwind CSS  
+- Node.js  
+
+---
+
+### 🎯 Interests
+- Design & UI/UX  
+- AI & Machine Learning  
+- Finance & Fintech  
+
+---
+
+### 🌍 About Me
+I love traveling, exploring new cultures, and learning new languages. Always curious and eager to learn something new every day!
+
+---
+
+### 🔖 Technologies & Tools
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+
+---
 <!--
-**PawelSzoltysek93/PawelSzoltysek93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 How to reach me
 
-Here are some ideas to get you started:
+Feel free to connect with me on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+- [Twitter](https://twitter.com/your-twitter)  
+- Or send me an email: your.email@example.com
+
+---
 -->
+Thanks for visiting my profile! 🙌  
