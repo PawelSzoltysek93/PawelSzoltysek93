@@ -1,6 +1,6 @@
-# Hi there! 👋 My name is Pawel, I'm a Web Development Student
+<h1 align="center">Hi there! 👋 My name is Pawel,<br> I'm a Web Development Student</h1>
 
-🚀 Aspiring Frontend Developer with a passion for building beautiful and functional websites.
+<p align="center">🚀 Aspiring Frontend Developer with a passion for building beautiful and functional websites.</p>
 
 ---
 
@@ -55,13 +55,14 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PawelSzoltysek93&layout=compact&theme=gotham)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawelSzoltysek93&layout=compact&theme=gotham" alt="Top Langs" />
+</p>
 
 ---
 
-### 🌍 About Me
-I love traveling, exploring new cultures, and learning new languages. Always curious and eager to learn something new every day!
+<h3 align="center">🌍 About Me</h3>
+<p align="center">I love traveling, exploring new cultures, and learning new languages.<br> Always curious and eager to learn something new every day!</p>
 
 ---
 
@@ -76,4 +77,4 @@ Feel free to connect with me on:
 
 ---
 -->
-Thanks for visiting my profile! 🙌  
+<p align="center">Thanks for visiting my profile! 🙌</p>
