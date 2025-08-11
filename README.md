@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm a Web Development Student
+# Hi there! 👋 My name is Pawel, I'm a Web Development Student
 
 🚀 Aspiring Frontend Developer with a passion for building beautiful and functional websites.
 
